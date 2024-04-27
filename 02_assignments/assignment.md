@@ -33,9 +33,9 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 3. Write the secret password in your own version of this markdown file in your forked repo.
 
 **What is the secret password?**
-```
-Your answer here...
 
+Your answer here...
+Paper Rings 10 meets legacies lucky stars
 
 
 
